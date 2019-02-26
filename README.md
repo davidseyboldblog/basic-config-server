@@ -1,1 +1,1 @@
-# basic-config-service
+# basic-config-server
